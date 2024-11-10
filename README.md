@@ -1,1 +1,1 @@
-### A simple hello world writen in Brainf**k
+### A simple hello world written in Brainf**k
